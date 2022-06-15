@@ -1,0 +1,15 @@
+body{
+    background-color: azure;
+}
+table {
+    border-color: black;
+align-items: center;
+}
+table thead {
+    background-color: darkcyan;
+    color: white;
+
+}
+table tr td{
+    border: 1px solid;
+}
